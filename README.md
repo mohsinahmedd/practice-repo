@@ -1,2 +1,2 @@
 # practice-repo
-practice
+practice-links
